@@ -1,5 +1,5 @@
 # Jonsole
-![Jonsole 2 Screenshot](https://github.com/GlassSources/Jonsole-Releases/blob/master/images/Design2.0.PNG)
+![Jonsole 2 Screenshot](https://github.com/GlassSources/Jonsole-Releases/blob/master/images/Design2.0.PNG)  
 A console created using JavaFX to replace the default command line console.  
 ## Build Information
 **Build Version: 2.0**  
