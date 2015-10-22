@@ -20,9 +20,13 @@ dependencies {
 ```
 Here's a example using Maven:
 ```
-<repository>
+	<repository>
 	    <id>jitpack.io</id>
 	    <url>https://jitpack.io</url>
 	</repository>
-
+	<dependency>
+	    <groupId>com.github.GlassSources</groupId>
+	    <artifactId>Jonsole-Releases</artifactId>
+	    <version>v2.0</version>
+	</dependency>
 ```
