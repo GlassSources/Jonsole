@@ -3,7 +3,7 @@
 A console created using JavaFX to replace the default command line console.  
 ## Build Information
 **Build Version: 2.0**  
-**Build Status:** ![Jitpack Status](https://img.shields.io/github/tag/GlassSources/Jonsole-Releases.svg?label=JitPack)  
+**Build Status:** JitPack Status is down, please wait until Jitpack Status returns.
 ## Jonsole Releases Repository
 This is a release repository. No source code is avaiable on this repository.  
   
