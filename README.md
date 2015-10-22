@@ -2,8 +2,8 @@
 ![Jonsole 2 Screenshot](https://github.com/GlassSources/Jonsole-Releases/blob/master/images/Design2.0.PNG)  
 A console created using JavaFX to replace the default command line console.  
 ## Build Information
-**Build Version: 2.0**  
-**Build Status:** JitPack Status is down, please wait until Jitpack Status returns.
+**Build Version: 2.0.1**  
+**Build Status:** ![JitPack Status](https://img.shields.io/github/release/GlassSources/Jonsole-Releases.svg?label=JitPack)
 ## Jonsole Releases Repository
 This is a release repository. No source code is avaiable on this repository.  
   
@@ -27,6 +27,6 @@ Here's a example using Maven:
 	<dependency>
 	    <groupId>com.github.GlassSources</groupId>
 	    <artifactId>Jonsole-Releases</artifactId>
-	    <version>v2.0</version>
+	    <version>v2.0.1</version>
 	</dependency>
 ```
